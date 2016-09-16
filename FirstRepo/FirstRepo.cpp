@@ -9,6 +9,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	std::cout << "this is the first repo!";
 
 	std::cout << "first change";
+
+	std::cout << "commit";
 	return 0;
 }
 
