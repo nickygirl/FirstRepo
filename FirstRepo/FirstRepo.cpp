@@ -1,4 +1,4 @@
-// FirstRepo.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+// FirstRepo.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 #include <iostream>
 #include "stdafx.h"
@@ -10,6 +10,8 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	std::cout << "first change";
 
+	std::cout<< "changs on server";
+	
 	return 0;
 }
 
